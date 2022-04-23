@@ -3,7 +3,7 @@
 ----
 
 <div align="center">
-  <img src="https://i.hizliresim.com/mm1NBs.jpg" width="200" height="200">
+  <img src="https://te.legra.ph/file/496ebddec765478081ae8.jpg" width="200" height="200">
   <h1>🐺 saptarshibot</h1>
 </div>
 <p align="center">
