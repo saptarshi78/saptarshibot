@@ -1,6 +1,6 @@
-FROM fusuf/whatsasena:latest
+FROM fusuf/saptarshibot:latest
 
-RUN git clone $GITHUB_REPO_URL /root/WhatsAsena
+RUN git clone $GITHUB_REPO_URL /root/saptarshibot
 WORKDIR /root/WhatsAsena/
 ENV TZ=Europe/Istanbul
 RUN npm install supervisor -g
